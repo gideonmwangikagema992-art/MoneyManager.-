@@ -77,3 +77,12 @@ Backend (Future):
 ## Goal
 
 Build a professional-quality finance application while learning software engineering from the ground up.
+
+User Model Decision:
+
+MoneyManager is designed for one person per app installation.
+
+The application represents a complete personal financial world containing the user's accounts, transactions, goals, debts, and financial plans.
+
+Security is prioritized through local protection methods such as PIN/passcode access.
+
